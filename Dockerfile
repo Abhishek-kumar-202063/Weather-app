@@ -1,6 +1,6 @@
 FROM node:latest
 # Create app directory
-WORKDIR /home/Abhishek-kumar-202063/weather-app
+WORKDIR D:\project\Docker\weather-app\Weather-App
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
