@@ -1,6 +1,6 @@
 FROM node:latest
 # Create app directory
-WORKDIR /home/Abhishek-kumar-202063/weather-app
+WORKDIR /app
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
